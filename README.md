@@ -16,7 +16,16 @@ The service exposes a POST `/identify` endpoint that:
 
 ---
 
-## 🛠 Tech Stack
+## Live Deployment
+
+The application is deployed and publicly accessible on Render.
+
+### Production Endpoint
+
+https://bitespeed-identity-1ve5.onrender.com/identify
+
+
+## Tech Stack
 
 - Node.js
 - TypeScript
@@ -63,7 +72,7 @@ Follow these steps carefully:
 ```bash
 git clone <your-repo-url>
 cd bitespeed-identity
-````
+```
 
 ---
 
